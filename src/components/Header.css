@@ -1,0 +1,18 @@
+header {
+  background-color: #1a470b;
+  color: #cfbd76;
+  text-align: center;
+  padding: 1em;
+}
+header h1 {
+  font-family: Parisienne;
+  font-size: 75px;
+}
+header p {
+  color: #c5b9a7;
+  font-size: 30px;
+}
+
+header img {
+  color: #cfbd76;
+}

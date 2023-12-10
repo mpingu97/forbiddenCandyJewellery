@@ -1,15 +1,29 @@
 {
   "files": {
-    "main.css": "/forbiddenCandyJewellery/static/css/main.1a134a39.css",
-    "main.js": "/forbiddenCandyJewellery/static/js/main.5ccfa6e8.js",
+    "main.css": "/forbiddenCandyJewellery/static/css/main.110bd2cb.css",
+    "main.js": "/forbiddenCandyJewellery/static/js/main.a4d45dad.js",
     "static/js/787.bc74fe1d.chunk.js": "/forbiddenCandyJewellery/static/js/787.bc74fe1d.chunk.js",
+    "static/media/Image6.jpg": "/forbiddenCandyJewellery/static/media/Image6.c1b4d165947bc782a549.jpg",
+    "static/media/Image7.jpg": "/forbiddenCandyJewellery/static/media/Image7.514548c261bff65f6466.jpg",
+    "static/media/Image5.jpg": "/forbiddenCandyJewellery/static/media/Image5.d974246061c41c8815c2.jpg",
+    "static/media/Image2.jpg": "/forbiddenCandyJewellery/static/media/Image2.ef200134b3120b6c5f13.jpg",
+    "static/media/Image4.jpg": "/forbiddenCandyJewellery/static/media/Image4.778d7ab46f1e755b37b4.jpg",
+    "static/media/image15.jpg": "/forbiddenCandyJewellery/static/media/image15.734ceb07033bfa81b5d4.jpg",
+    "static/media/Image3.jpg": "/forbiddenCandyJewellery/static/media/Image3.f8b9df578cce4dff9b76.jpg",
+    "static/media/image14.jpg": "/forbiddenCandyJewellery/static/media/image14.ec46881689c2dc755360.jpg",
+    "static/media/image10.jpg": "/forbiddenCandyJewellery/static/media/image10.1254a7a693aa9f5e6b71.jpg",
+    "static/media/image13.jpg": "/forbiddenCandyJewellery/static/media/image13.99d6aa2b6a8e1753b9a6.jpg",
+    "static/media/image12.jpg": "/forbiddenCandyJewellery/static/media/image12.8157dedafe449f24f8db.jpg",
+    "static/media/image11.jpg": "/forbiddenCandyJewellery/static/media/image11.124d151a50785320b9a8.jpg",
+    "static/media/icon4.png": "/forbiddenCandyJewellery/static/media/icon4.327931d6ba73e50ddcac.png",
+    "static/media/backgroundImg2.jpeg": "/forbiddenCandyJewellery/static/media/backgroundImg2.449c631ea1e9adecb27b.jpeg",
     "index.html": "/forbiddenCandyJewellery/index.html",
-    "main.1a134a39.css.map": "/forbiddenCandyJewellery/static/css/main.1a134a39.css.map",
-    "main.5ccfa6e8.js.map": "/forbiddenCandyJewellery/static/js/main.5ccfa6e8.js.map",
+    "main.110bd2cb.css.map": "/forbiddenCandyJewellery/static/css/main.110bd2cb.css.map",
+    "main.a4d45dad.js.map": "/forbiddenCandyJewellery/static/js/main.a4d45dad.js.map",
     "787.bc74fe1d.chunk.js.map": "/forbiddenCandyJewellery/static/js/787.bc74fe1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a134a39.css",
-    "static/js/main.5ccfa6e8.js"
+    "static/css/main.110bd2cb.css",
+    "static/js/main.a4d45dad.js"
   ]
 }
